@@ -29,8 +29,5 @@ public class P1{
     public static void main(String[] args){
         System.out.println("m1 from main");
         m1();
-        System.out.println("m2 from main");
-        P1 obj = new P1();
-        obj.m2();
     }
 }
